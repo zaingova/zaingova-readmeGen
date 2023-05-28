@@ -14,6 +14,8 @@ This is a node.js application used to generate a professional-level README file.
 
 ## Usage
 
+[Click here to be re-directed to the Github repository](https://github.com/zaingova/zaingova-readmeGen)
+
 To use this app, you'll need to open your terminal and type the command "npm init -y" followed by "npm i inquirer@8.2.4" to get the correct version of Inquirer installed. Then, in the terminal, type "node index.js" to begin the program. It will take you through all sections of the README and at the end, it genates a new fiile called SAMPLE_README.md.
 
 ## License
